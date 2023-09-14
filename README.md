@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a AI/ML Engineer with 6 monts of experience for now. Love to code and learn new things everyday in the field of Artificial Intellegence and Machine Learning.</p>
+<p align="left">I am a AI/ML Engineer with 6 months of experience for now. Love to code and learn new things everyday in the field of Artificial Intelligence and Machine Learning.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2 years<br>📚 I'm endlessly learning AI/ML Daily<br>🎯 Goals: To be a better engineer and a beter person<br>🎲 Fun fact: Love litti chokha</p>
+<p align="left">✨ Creating bugs since 2 years<br>📚 I'm endlessly learning AI/ML Daily<br>🎯 Goals: To be a better engineer and a better person<br>🎲 Fun fact: Love litti chokha</p>
 
 ###
 
