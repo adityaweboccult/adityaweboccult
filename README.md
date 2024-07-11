@@ -14,31 +14,19 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages and Tools</h2>
 
 ###
 
-<div align="left">
-  <a href="https://python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
+[![misc](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
+[![Editors](https://skillicons.dev/icons?i=vscode,pycharm)](https://skillicons.dev)
+[![vc](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,c,cpp,java)](https://skillicons.dev)
+[![AI](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+[![misc](https://skillicons.dev/icons?i=anaconda,opencv)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=redis,mongodb)](https://skillicons.dev)
+[![Deployments](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
 
 ###
 
