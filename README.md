@@ -19,12 +19,19 @@
 ###
 
 [![misc](https://skillicons.dev/icons?i=windows,ubuntu)](https://skillicons.dev)
+
 [![Editors](https://skillicons.dev/icons?i=vscode,pycharm)](https://skillicons.dev)
+
 [![vc](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)](https://skillicons.dev)
+
 [![Languages](https://skillicons.dev/icons?i=python,c,cpp,java)](https://skillicons.dev)
+
 [![AI](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+
 [![misc](https://skillicons.dev/icons?i=anaconda,opencv)](https://skillicons.dev)
+
 [![Databases](https://skillicons.dev/icons?i=redis,mongodb)](https://skillicons.dev)
+
 [![Deployments](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 
